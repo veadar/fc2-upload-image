@@ -27,6 +27,7 @@ macOS 10.12で作成。
 
 Downloadをクリック → [Download](https://github.com/veadar/fc2-upload-image/releases)
 
+古いバージョンは[ブログ](http://veadardiary.blog29.fc2.com/blog-entry-3415.html)よりダウンロードしてください
 
 ##参考にさせていただいたコード
 
